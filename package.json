@@ -10,8 +10,21 @@
     "name": "liveload"
   },
   "author": "neo",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "tiny-lr": "^0.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yejinjian/egg-liveload.git"
+  },
+  "keywords": [
+    "egg",
+    "liveload"
+  ],
+  "bugs": {
+    "url": "https://github.com/yejinjian/egg-liveload/issues"
+  },
+  "homepage": "https://github.com/yejinjian/egg-liveload#readme"
 }
